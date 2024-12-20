@@ -1,0 +1,10 @@
+C:\Users\89122\source\repos\OOAP3\bin\Debug\OOAP3.exe.config
+C:\Users\89122\source\repos\OOAP3\bin\Debug\OOAP3.exe
+C:\Users\89122\source\repos\OOAP3\bin\Debug\OOAP3.pdb
+C:\Users\89122\source\repos\OOAP3\obj\Debug\OOAP3.csproj.AssemblyReference.cache
+C:\Users\89122\source\repos\OOAP3\obj\Debug\OOAP3.Form1.resources
+C:\Users\89122\source\repos\OOAP3\obj\Debug\OOAP3.Properties.Resources.resources
+C:\Users\89122\source\repos\OOAP3\obj\Debug\OOAP3.csproj.GenerateResource.cache
+C:\Users\89122\source\repos\OOAP3\obj\Debug\OOAP3.csproj.CoreCompileInputs.cache
+C:\Users\89122\source\repos\OOAP3\obj\Debug\OOAP3.exe
+C:\Users\89122\source\repos\OOAP3\obj\Debug\OOAP3.pdb
